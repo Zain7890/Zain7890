@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zain7890
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on web programming 
+- 📫 How to reach me by dm me
